@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-yarnnpm```
+npm run serve
 
 ### Compiles and minifies for production
 ```
